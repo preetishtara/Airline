@@ -1,0 +1,10 @@
+/* body{
+    background: rgb(2,0,36);
+    background: linear-gradient(93deg, rgba(2,0,36,1) 28%, rgba(83,178,254,1) 100%, rgba(6,90,243,1) 100%);
+} */
+
+body{
+    background-image: url('https://wallpapercave.com/wp/wp4128796.jpg');
+    background-size: 100%;
+    background-attachment: fixed;
+}
